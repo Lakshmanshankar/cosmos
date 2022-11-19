@@ -1,5 +1,5 @@
 {
-  "name": "client-controll",
+  "name": "client-controll-cosmos",
   "version": "1.0.0",
   "description": "A npm package which is used to manipulate the azure cosmos DB ",
   "main": "index.js",
