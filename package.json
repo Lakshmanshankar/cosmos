@@ -8,7 +8,13 @@
   },
   "keywords": [
     "cosmos-DB",
+<<<<<<< HEAD
     "cosmos-client"
+=======
+    "cosmos-client",
+    "cosmosDB",
+    "Github package"
+>>>>>>> 89d7f94 (Erase Everything)
   ],
   "author": "lakshmanshankar",
   "license": "MIT",
