@@ -228,5 +228,5 @@ async function init(){
 ```
 
 
-## Thank You For reading this documentation
+## Thank you For Reading this
 
