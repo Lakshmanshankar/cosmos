@@ -9,6 +9,10 @@ ClientControll is a NPM package which is used to manipulate the Azure Cosmos DB
 
 Cosmos DB is very high speed NoSQL database which which will provide response within 10ms. which you can scale from 1000 to hundreds of million of requests instantly.
 
+COSMOS DB is highly available 99.999% SLA
+
+It provides API's That is globally distributed you can access it from anywhere and you are charged for what you use (Based on RU's)
+
 You can use this client controll class to use the Azure Cosmos db in your javascript application
 
 
